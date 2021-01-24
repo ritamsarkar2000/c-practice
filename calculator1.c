@@ -27,7 +27,7 @@ int main(){
     float r ;
     r = 0;
 
-    printf("in this calculator , we have to choose the symbol of the elements first , then input the element and then we can also choose if want to have the square root or factorial or trigonometric funcion of the last element. NOTE; factorial of a trigonometric function is not available");
+    printf("in this calculator , we have to choose the symbol of the elements first , then input the element and then we can also choose if want to have the square root or factorial or trigonometric funcion of the last element. NOTE; factorial of a trigonometric function is not available and also the value for sin cos tan should be in radian");
     printf("\n ENter the number of elements involved in calculation: ");
     scanf("%d", &n);
 
